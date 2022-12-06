@@ -1,0 +1,15 @@
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\bin\Debug\net6.0\HomeWorkWay2.exe
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\bin\Debug\net6.0\HomeWorkWay2.deps.json
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\bin\Debug\net6.0\HomeWorkWay2.runtimeconfig.json
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\bin\Debug\net6.0\HomeWorkWay2.dll
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\bin\Debug\net6.0\HomeWorkWay2.pdb
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\obj\Debug\net6.0\HomeWorkWay2.csproj.AssemblyReference.cache
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\obj\Debug\net6.0\HomeWorkWay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\obj\Debug\net6.0\HomeWorkWay2.AssemblyInfoInputs.cache
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\obj\Debug\net6.0\HomeWorkWay2.AssemblyInfo.cs
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\obj\Debug\net6.0\HomeWorkWay2.csproj.CoreCompileInputs.cache
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\obj\Debug\net6.0\HomeWorkWay2.dll
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\obj\Debug\net6.0\refint\HomeWorkWay2.dll
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\obj\Debug\net6.0\HomeWorkWay2.pdb
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\obj\Debug\net6.0\HomeWorkWay2.genruntimeconfig.cache
+C:\Users\LENGION\Desktop\CodeAcademy\HomeWorkWay2\HomeWorkWay2\obj\Debug\net6.0\ref\HomeWorkWay2.dll
